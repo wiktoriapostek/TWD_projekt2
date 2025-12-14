@@ -8,7 +8,7 @@ Projekt może być zrealizowany w dowolnym narzędziu, które umożliwi interakc
 Zajęcia projektowe to głównie wspólne dyskusje, praca w grupie, prezentacje kolejnych etapów, konsultacje.
 
 <table style="undefined;table-layout: fixed; width: 526px"> <colgroup> <col style="width: 59.116667px"> <col style="width: 82.116667px"> <col style="width: 331.116667px"> <col style="width: 54.116667px"> </colgroup> <thead> <tr> <th>Tydzień</th> <th>Data</th> <th>Zakres</th> <th>Punkty</th> </tr> </thead> <tbody> <tr> <td>9<br></td> <td>03-12-2025</td>  <td>Określenie tematyki projektu - należy przygotować pomysły na temat projektu</td> <td>1</td> </tr>  <tr> <td>11<br></td> <td>17-12-2025</td> <td>Prezentacje wykonanej eksploracji danych, pierwsze wykresy i analizy</td> <td>2</td> </tr>  <tr> <td>13</td> <td>14-01-2026</td> <td>Prezentacja zaawansowanych wizualizacji oraz prototypu aplikacji.</td> <td>2</td> </tr> </tbody> </table>
----
+-
 Za projekt można otrzymać od 0 do 29 punktów, z czego:
 
 -   do 2p uzyskuje się za przedstawienie postępu prac w danym tygodniu (3x),
